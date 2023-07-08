@@ -1,7 +1,7 @@
 # Importación de DataBase
 use sakila;
 -- How many copies of the film Hunchback Impossible exist in the inventory system?
-
+-- SELECT
 -- List all films whose length is longer than the average of all the films.
 -- Use subqueries to display all actors who appear in the film Alone Trip.
 -- Sales have been lagging among young families, and you wish to target all family movies for a promotion. Identify all movies categorized as family films.
